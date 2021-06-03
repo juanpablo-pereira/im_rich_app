@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.im_rich_app">
    <application
-        android:label="im_rich_app"
-        android:icon="@mipmap/ic_launcher">
+        android:label="I'm Rich App"
+        android:icon="@mipmap/app_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
